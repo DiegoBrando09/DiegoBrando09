@@ -1,16 +1,13 @@
-### Hi there 👋
+### Bem-Viindo ao meu perfil! 🧡
 
-<!--
-**DiegoBrando09/DiegoBrando09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ola! Meu nome é Diego, um prazer em conhece-lo!
 
-Here are some ideas to get you started:
+ - Estou estudando na plataforma Alura
+ - Estou aprendendo a linguagem JavaScript
+ - Irei utilizar esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Caso queira entrar em contato comigo use meu email 📫
+
+diego.braz.silva@escola.pr.gov.br
+
+![ ](https://tenor.com/pt-BR/view/pochita-dancing-pochita-chainsawman-pochita-breaking-it-down-pochita-break-dance-gif-27084719)
