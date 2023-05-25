@@ -10,4 +10,4 @@ Ola! Meu nome é Diego, um prazer em conhece-lo!
 
 diego.braz.silva@escola.pr.gov.br
 
-![ ](https://tenor.com/pt-BR/view/pochita-dancing-pochita-chainsawman-pochita-breaking-it-down-pochita-break-dance-gif-27084719)
+![](https://media.tenor.com/XEQsKJrqPSEAAAAi/friday-night.gif)
